@@ -9,7 +9,7 @@ Java (Eclipse IDE)
 HTML, CSS, JavaScript
 
 Databases:
-SQL
+MySQL
 
 Project Management Tools:
 ProjectLibre
